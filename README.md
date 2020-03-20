@@ -18,7 +18,7 @@ In this game player has to click color of the word that appears on the screen an
 - https://www.geeksforgeeks.org/color-game-python/
 - https://www.tutorialspoint.com/python3/tk_messagebox.htm
 
-## Contibuting to {BSCS-18-GuessingColor}
+## Contibuting to BSCS-18-GuessingColor
 To contribute to BSCS-18-GuessingColor, make sure to give a star and forked this repository.
 
 Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
